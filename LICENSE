@@ -1,0 +1,14 @@
+Attribution
+
+The data files in this repository (dbip/) are a compiled redistribution of the
+free "IP to City Lite" database published by DB-IP (https://db-ip.com),
+available at https://db-ip.com/db/download/ip-to-city-lite
+
+The DB-IP IP to City Lite database is licensed under the Creative Commons
+Attribution 4.0 International License (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
+
+Required attribution: IP Geolocation by DB-IP (https://db-ip.com)
+
+This repository's index format and tooling were created for the GeoIP API
+project. The CC BY 4.0 attribution above applies to all data under dbip/.
