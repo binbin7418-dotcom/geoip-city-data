@@ -1,0 +1,32 @@
+{
+ "source": "DB-IP IP to City Lite",
+ "sourceUrl": "https://db-ip.com/db/download/ip-to-city-lite",
+ "license": "CC BY 4.0",
+ "attribution": "IP Geolocation by DB-IP (https://db-ip.com)",
+ "rows": 7777816,
+ "dictEntries": 527375,
+ "dictShardEntries": 65536,
+ "families": {
+  "4": {
+   "rows": 3598816,
+   "recordsAfterMerge": 3584325,
+   "shards": 224,
+   "bytes": 43011900,
+   "bytesCompacted": 28674608,
+   "recordBytes": 8
+  },
+  "6": {
+   "rows": 4179000,
+   "recordsAfterMerge": 4106823,
+   "shards": 9,
+   "bytes": 147845628,
+   "bytesCompacted": 82136620,
+   "shardsCompacted": 82,
+   "recordBytes": 20,
+   "shardKey": "first two address bytes, 4 hex chars"
+  }
+ },
+ "dictShards": 9,
+ "format": "tiling-v2 (start+dictId records; dictId 0 = no data)",
+ "dictBytes": 23641884
+}
